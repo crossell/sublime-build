@@ -77,7 +77,7 @@ has a complete list.
 ### OS-Specific Settings
 
 For users that are working on different operating systems, it may be necessary
-to segement settings per OS. All settings may be nested under a key of one of
+to segment settings per OS. All settings may be nested under a key of one of
 the following strings:
 
  - "osx"
